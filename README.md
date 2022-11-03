@@ -1,5 +1,4 @@
 # Buffer Clone
-<hr>
 This project as plan to be a clone from social media manager Buffer, created with the Ruby language and the Rails framework.<br>
 The main objective from this project is learn and aplicate the Rails framework's technology.
 
